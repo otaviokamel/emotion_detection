@@ -1,4 +1,5 @@
-# emotion_detection
+# Detecção de Emoções
+
 Projeto para a disciplina de Álgebra Linear na especialização em Visão Computacional pelo <a href="https://cin.ufpe.br/">CIn-UFPE</a><br />Ele consiste em detectar emoções utilizando imagens de pessoas com diferentes expressões faciais.
 
  <small>Professor Paulo Salgado </small><br>
